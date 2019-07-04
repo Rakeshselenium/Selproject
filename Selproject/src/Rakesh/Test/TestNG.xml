@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Automation Suite" parallel="methods" >
+  <test name="Regression suite " >
+    <classes>
+      <class name="Rakesh.Test.TestNGBasic"/>
+      <class name="Rakesh.Test.GoogleTest"/>
+      <class name="Rakesh.Test.GoogleTitleTest"/>
+      <class name="Rakesh.Test.ExceptionTimeOutTest"/>
+      <class name="Rakesh.Test.InvocationCountTest"/>
+      <class name="Rakesh.Test.TestNGFeature"/>
+    </classes>
+ </test>
+</suite>

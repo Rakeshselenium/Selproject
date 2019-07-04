@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="140" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="140" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+      <class name="Rakesh.Test.TestNGBasic">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Rakesh.Test.TestNGBasic@1877ab81]" name="setUp" is-config="true" duration-ms="40" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="lounchBrowser()[pri:0, instance:Rakesh.Test.TestNGBasic@1877ab81]" name="lounchBrowser" is-config="true" duration-ms="8" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lounchBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Rakesh.Test.TestNGBasic@1877ab81]" name="login" is-config="true" duration-ms="0" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="anotherTest()[pri:0, instance:Rakesh.Test.TestNGBasic@1877ab81]" name="anotherTest" duration-ms="24" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- anotherTest -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:Rakesh.Test.TestNGBasic@1877ab81]" name="enterURL" is-config="true" duration-ms="0" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:Rakesh.Test.TestNGBasic@1877ab81]" name="logOut" is-config="true" duration-ms="0" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="googleTitleText()[pri:0, instance:Rakesh.Test.TestNGBasic@1877ab81]" name="googleTitleText" duration-ms="4" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleText -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:Rakesh.Test.TestNGBasic@1877ab81]" name="enterURL" is-config="true" duration-ms="0" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:Rakesh.Test.TestNGBasic@1877ab81]" name="logOut" is-config="true" duration-ms="4" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:Rakesh.Test.TestNGBasic@1877ab81]" name="searchTest" duration-ms="4" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:Rakesh.Test.TestNGBasic@1877ab81]" name="enterURL" is-config="true" duration-ms="0" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:Rakesh.Test.TestNGBasic@1877ab81]" name="logOut" is-config="true" duration-ms="0" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="classBrowser()[pri:0, instance:Rakesh.Test.TestNGBasic@1877ab81]" name="classBrowser" is-config="true" duration-ms="0" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classBrowser -->
+        <test-method status="PASS" signature="deleteAllCookies()[pri:0, instance:Rakesh.Test.TestNGBasic@1877ab81]" name="deleteAllCookies" is-config="true" duration-ms="0" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookies -->
+        <test-method status="PASS" signature="generateTestReport()[pri:0, instance:Rakesh.Test.TestNGBasic@1877ab81]" name="generateTestReport" is-config="true" duration-ms="0" started-at="2019-06-18T06:03:26Z" finished-at="2019-06-18T06:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateTestReport -->
+      </class> <!-- Rakesh.Test.TestNGBasic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

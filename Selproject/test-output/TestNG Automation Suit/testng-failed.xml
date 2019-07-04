@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestNG Automation Suit]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Regression suite (failed)">
+    <classes>
+      <class name="Rakesh.Test.GoogleTest">
+        <methods>
+          <include name="quit"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="mailLinkTest"/>
+        </methods>
+      </class> <!-- Rakesh.Test.GoogleTest -->
+      <class name="Rakesh.Test.GoogleTitleTest">
+        <methods>
+          <include name="googleTitleTest"/>
+          <include name="quit"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- Rakesh.Test.GoogleTitleTest -->
+    </classes>
+  </test> <!-- Regression suite (failed) -->
+</suite> <!-- Failed suite [TestNG Automation Suit] -->
